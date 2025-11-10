@@ -1,0 +1,16 @@
+D:\UIT_(BaiHoc-BaiTap)\Year2_Se1\Network_Programing\Lab3_LTMCB\Bai2\bin\Debug\net9.0-windows\Bai2.exe
+D:\UIT_(BaiHoc-BaiTap)\Year2_Se1\Network_Programing\Lab3_LTMCB\Bai2\bin\Debug\net9.0-windows\Bai2.deps.json
+D:\UIT_(BaiHoc-BaiTap)\Year2_Se1\Network_Programing\Lab3_LTMCB\Bai2\bin\Debug\net9.0-windows\Bai2.runtimeconfig.json
+D:\UIT_(BaiHoc-BaiTap)\Year2_Se1\Network_Programing\Lab3_LTMCB\Bai2\bin\Debug\net9.0-windows\Bai2.dll
+D:\UIT_(BaiHoc-BaiTap)\Year2_Se1\Network_Programing\Lab3_LTMCB\Bai2\bin\Debug\net9.0-windows\Bai2.pdb
+D:\UIT_(BaiHoc-BaiTap)\Year2_Se1\Network_Programing\Lab3_LTMCB\Bai2\obj\Debug\net9.0-windows\Bai2.csproj.GenerateResource.cache
+D:\UIT_(BaiHoc-BaiTap)\Year2_Se1\Network_Programing\Lab3_LTMCB\Bai2\obj\Debug\net9.0-windows\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\UIT_(BaiHoc-BaiTap)\Year2_Se1\Network_Programing\Lab3_LTMCB\Bai2\obj\Debug\net9.0-windows\Bai2.AssemblyInfoInputs.cache
+D:\UIT_(BaiHoc-BaiTap)\Year2_Se1\Network_Programing\Lab3_LTMCB\Bai2\obj\Debug\net9.0-windows\Bai2.AssemblyInfo.cs
+D:\UIT_(BaiHoc-BaiTap)\Year2_Se1\Network_Programing\Lab3_LTMCB\Bai2\obj\Debug\net9.0-windows\Bai2.csproj.CoreCompileInputs.cache
+D:\UIT_(BaiHoc-BaiTap)\Year2_Se1\Network_Programing\Lab3_LTMCB\Bai2\obj\Debug\net9.0-windows\Bai2.dll
+D:\UIT_(BaiHoc-BaiTap)\Year2_Se1\Network_Programing\Lab3_LTMCB\Bai2\obj\Debug\net9.0-windows\refint\Bai2.dll
+D:\UIT_(BaiHoc-BaiTap)\Year2_Se1\Network_Programing\Lab3_LTMCB\Bai2\obj\Debug\net9.0-windows\Bai2.pdb
+D:\UIT_(BaiHoc-BaiTap)\Year2_Se1\Network_Programing\Lab3_LTMCB\Bai2\obj\Debug\net9.0-windows\Bai2.genruntimeconfig.cache
+D:\UIT_(BaiHoc-BaiTap)\Year2_Se1\Network_Programing\Lab3_LTMCB\Bai2\obj\Debug\net9.0-windows\ref\Bai2.dll
+D:\UIT_(BaiHoc-BaiTap)\Year2_Se1\Network_Programing\Lab3_LTMCB\Bai2\obj\Debug\net9.0-windows\Bai2.Bai2.resources
