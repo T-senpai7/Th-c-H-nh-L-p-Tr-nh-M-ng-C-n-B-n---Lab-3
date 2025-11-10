@@ -1,0 +1,14 @@
+D:\Lab3_LTMCB(1,2,3)\Lab3_LTMCB\Bai6\bin\Debug\net8.0-windows\Bai6.exe
+D:\Lab3_LTMCB(1,2,3)\Lab3_LTMCB\Bai6\bin\Debug\net8.0-windows\Bai6.deps.json
+D:\Lab3_LTMCB(1,2,3)\Lab3_LTMCB\Bai6\bin\Debug\net8.0-windows\Bai6.runtimeconfig.json
+D:\Lab3_LTMCB(1,2,3)\Lab3_LTMCB\Bai6\bin\Debug\net8.0-windows\Bai6.dll
+D:\Lab3_LTMCB(1,2,3)\Lab3_LTMCB\Bai6\bin\Debug\net8.0-windows\Bai6.pdb
+D:\Lab3_LTMCB(1,2,3)\Lab3_LTMCB\Bai6\obj\Debug\net8.0-windows\Bai6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab3_LTMCB(1,2,3)\Lab3_LTMCB\Bai6\obj\Debug\net8.0-windows\Bai6.AssemblyInfoInputs.cache
+D:\Lab3_LTMCB(1,2,3)\Lab3_LTMCB\Bai6\obj\Debug\net8.0-windows\Bai6.AssemblyInfo.cs
+D:\Lab3_LTMCB(1,2,3)\Lab3_LTMCB\Bai6\obj\Debug\net8.0-windows\Bai6.csproj.CoreCompileInputs.cache
+D:\Lab3_LTMCB(1,2,3)\Lab3_LTMCB\Bai6\obj\Debug\net8.0-windows\Bai6.dll
+D:\Lab3_LTMCB(1,2,3)\Lab3_LTMCB\Bai6\obj\Debug\net8.0-windows\refint\Bai6.dll
+D:\Lab3_LTMCB(1,2,3)\Lab3_LTMCB\Bai6\obj\Debug\net8.0-windows\Bai6.pdb
+D:\Lab3_LTMCB(1,2,3)\Lab3_LTMCB\Bai6\obj\Debug\net8.0-windows\Bai6.genruntimeconfig.cache
+D:\Lab3_LTMCB(1,2,3)\Lab3_LTMCB\Bai6\obj\Debug\net8.0-windows\ref\Bai6.dll
